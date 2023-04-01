@@ -156,6 +156,7 @@ inherited frmOptionsMouse: TfrmOptionsMouse
       BorderSpacing.Top = 4
       BorderSpacing.Right = 8
       MinValue = 1
+      MaxValue = 65535
       TabOrder = 2
       Value = 1
     end

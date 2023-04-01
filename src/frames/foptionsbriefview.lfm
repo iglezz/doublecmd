@@ -116,6 +116,7 @@ inherited frmOptionsBriefView: TfrmOptionsBriefView
       Top = 44
       Width = 80
       MinValue = 1
+      MaxValue = 100
       TabOrder = 4
       Value = 1
     end

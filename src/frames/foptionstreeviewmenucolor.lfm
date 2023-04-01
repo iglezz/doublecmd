@@ -737,6 +737,8 @@ inherited frmOptionsTreeViewMenuColor: TfrmOptionsTreeViewMenuColor
       OnChange = sedFontChange
       TabOrder = 1
       Value = 12
+      MinValue = 6
+      MaxValue = 200
     end
     object btFont: TButton
       AnchorSideTop.Control = edFontName
